@@ -1,6 +1,6 @@
 ---
-title: 部落格測試區
-subtitle: 您可以在這裡進行部落格測試
+title: " "
+subtitle: " "
 image: img/little.jpg
 blurb:
   heading: 這是什麼?
