@@ -89,12 +89,6 @@ main {
   background: hsla(0,0%,100%,.3);  
   position: relative;
   overflow: hidden;
-  
-  /* 其他樣式 */
-}
-
-main::before {
-  content: '';
   position: absolute;
   top:0; right:0; bottom:0; left:0;
   filter: blur(20px);
